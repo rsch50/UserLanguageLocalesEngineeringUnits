@@ -1,0 +1,36 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [21,7],
+    "Body": [
+     "","en-US","de-CH","fr-CH","it-CH","es-ES","en-GB",
+     "Name","JohnUS","Johannes","Jean","Giovanni","Juan","JackUK",
+     "LoginChangePasswordFormPasswordTooShort","Password too short","","","","La contraseña es demasiado corta","",
+     "Confirm password","Confirm password","","","","Confirmar contraseña","",
+     "Password","Password","","","","Contraseña","",
+     "New password","New password","","","","Contraseña nueva","",
+     "LoginFormPasswordExpired","Password expired","","","","Contraseña caducada","",
+     "Login","Login","","","","Inicio de sesión","",
+     "Old password","Old password","","","","Contraseña antigua","",
+     "Change password","Change password","","","","Cambiar contraseña","",
+     "Logout","Logout","","","","Cierre de sesión","",
+     "Current User:","Current User:","","","","Usuario actual:","",
+     "Your password is expired. Please enter a new one","Your password is expired.\nPlease enter a new one.","","","","Su contraseña ha caducado.\nIntroduzca una nueva.","",
+     "LoginFormLoginSuccessful","Login successful","","","","Inicio de sesión correcto","",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation","","","","Operación no compatible","",
+     "LoginFormAuthenticationFailed","Authentication failed","","","","Fallo de autenticación","",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password","","","","Contraseña antigua incorrecta","",
+     "LoginChangePasswordFormUserNotFound","User not found","","","","No se encuentra el usuario","",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used","","","","La contraseña ya se ha utilizado","",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently","","","","La contraseña ya se cambió hace poco","",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match","","","","Las contraseñas no coinciden",""
+    ]
+   }

@@ -1,0 +1,119 @@
+Name: Users
+Id: g=8cdfe95c558e909385d4fe7ddc9a2655
+Type: UsersCategoryFolder
+Children:
+- Name: Johannes
+  Id: g=5ab4b7b37e79b802ac130245468c96b3
+  Type: UserType
+  Children:
+  - Name: Language
+    Id: g=24e217b8d7878415f2fceac96993db1b
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-CH"
+  - Name: MeasurementSystem
+    Id: g=703c8fc840f8498f2c085782766bcdd6
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 1
+  - Name: Domain
+    Id: g=4875626ffcc9e019ce2acc3952a9fc87
+    Type: BaseVariableType
+    DataType: String
+    ReferenceType: HasProperty
+  - Name: LocaleId
+    Id: g=f98e95dbadc4662829df83f433b63ded
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-CH"
+- Name: Jean
+  Id: g=57c1cb19d6e714cc031819fbc2149f4a
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=94273376dddcc2e931c75cfdeeb0d2c7
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "fr-CH"
+  - Name: Language
+    Id: g=5a86c2b1c1f7830bb56f34739c4839b0
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "fr-CH"
+  - Name: MeasurementSystem
+    Id: g=725990d32a20d1c5f44bda4eb60affcb
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 1
+- Name: Giovanni
+  Id: g=7b07f33ada0663e9a9e705f48fce1327
+  Type: UserType
+  Children:
+  - Name: Language
+    Id: g=a73f4de30db100b68cfb4b4100621875
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-CH"
+  - Name: MeasurementSystem
+    Id: g=f98c73e218abcfec41bcbf6967bc6987
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 1
+  - Name: LocaleId
+    Id: g=f36603de86e369c3c9380986212a20aa
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-CH"
+- Name: JohnUS
+  Id: g=58a0e4c6b6585d85128a45e6e86c3d3a
+  Type: UserType
+  Children:
+  - Name: Language
+    Id: g=483bc42ffa718c8863a2c650986e4434
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: MeasurementSystem
+    Id: g=b25b104adc9ae4e0bba691ced73f43c9
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 2
+  - Name: LocaleId
+    Id: g=db65cacba81771cd13959f16091149a7
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+- Name: JackUK
+  Id: g=c25f90eec7e09d7c82627243f6bd7601
+  Type: UserType
+  Children:
+  - Name: Language
+    Id: g=c7a9739fce080a91ce370e2c660bde87
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-GB"
+  - Name: MeasurementSystem
+    Id: g=850dc8ccc02375a93434178e2e81ed34
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 3
+  - Name: LocaleId
+    Id: g=5138fa4149b249c86324f48846a36c92
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-GB"

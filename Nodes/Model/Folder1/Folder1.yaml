@@ -1,0 +1,15 @@
+Name: Folder1
+Type: FolderType
+Children:
+- Name: EngineeringUnitDictionary1
+  Type: EngineeringUnitDictionary
+  DataType: EngineeringUnitDictionaryItem
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+  Value: [{"TypeId":{"Id":239,"Namespace":1},"Body":{"UnitId":0,"DisplayName":{"LocaleId":"en-US","Text":"Kleeblätter/m²"},"Description":{"LocaleId":"en-US","Text":"Anzahl Kleeblätter"},"PhysicalDimension":5,"Slope":1000.0,"Intercept":0.0}},{"TypeId":{"Id":239,"Namespace":1},"Body":{"UnitId":1,"DisplayName":{"LocaleId":"en-US","Text":"Pascal/min"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""},"PhysicalDimension":10,"Slope":0.0,"Intercept":0.0}},{"TypeId":{"Id":239,"Namespace":1},"Body":{"UnitId":2,"DisplayName":{"LocaleId":"en-US","Text":"mbar/min"},"Description":{"LocaleId":"en-US","Text":""},"PhysicalDimension":0,"Slope":0.0,"Intercept":0.0}}]
+- Name: RuntimeNetLogic1
+  Id: g=2f7a3ac0b7041142f5d8d2f3a41e766a
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: Method1
