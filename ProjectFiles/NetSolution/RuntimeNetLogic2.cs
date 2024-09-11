@@ -28,12 +28,8 @@ public class RuntimeNetLogic2 : BaseNetLogic
     [ExportMethod]
     public void Method1()
     {
-        // UserLanguageLocalesEngineeringUnits/Model/Object1
         // get data stored in optix
         var myData = Project.Current.Get("Model/Object1");
-        // var test = Session.Get()
-        // var myData = Session.Get("Model/Object1");       
-
         Debug.Assert(myData != null);
 
         int i = 0;
