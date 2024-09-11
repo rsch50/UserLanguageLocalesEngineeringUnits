@@ -9,7 +9,7 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [22,7],
+    "Dimensions": [23,7],
     "Body": [
      "","en-US","de-CH","fr-CH","it-CH","es-ES","en-GB",
      "Name","JohnUS","Johannes","Jean","Giovanni","Juan","JackUK",
@@ -32,6 +32,7 @@ Children:
      "LoginChangePasswordFormPasswordAlreadyUsed","Password already used","","","","La contraseña ya se ha utilizado","",
      "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently","","","","La contraseña ya se cambió hace poco","",
      "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match","","","","Las contraseñas no coinciden","",
-     "Kleeblätter","shamrocks","Kleeblätter","trèfle","trifogli","",""
+     "Kleeblätter","shamrocks","Kleeblätter","trèfle","trifogli","","",
+     "Kleeblätter/m²","shamrocks/yd²","Kleeblätter/m²","trèfle/m²","trifogli/m²","","shamrocks/yd²"
     ]
    }

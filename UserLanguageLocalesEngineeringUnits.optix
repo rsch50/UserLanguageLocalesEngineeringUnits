@@ -59,15 +59,23 @@ Project:
    Uri: 'urn:FTOptix:NetLogic'
    Module: FTOptix.NetLogic
    Version: 3.0
+  15:
+   Uri: 'urn:FTOptix:OPCUAServer'
+   Module: FTOptix.OPCUAServer
+   Version: 1.1
+  16:
+   Uri: 'urn:FTOptix:OPCUAServer:Net'
+   Module: FTOptix.OPCUAServer.Net
+   Version: 1.1
  Statistics:
-  TotalNodeCount: 893
-  Objects: 238
-  ObjectTypes: 7
-  Variables: 642
+  TotalNodeCount: 928
+  Objects: 245
+  ObjectTypes: 8
+  Variables: 669
   VariableTypes: 0
   DataTypes: 0
   Methods: 6
-  References: 8
+  References: 12
   ReferenceTypes: 0
   Files: 23
  Nodes:
