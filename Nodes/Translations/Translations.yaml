@@ -9,7 +9,7 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [21,7],
+    "Dimensions": [22,7],
     "Body": [
      "","en-US","de-CH","fr-CH","it-CH","es-ES","en-GB",
      "Name","JohnUS","Johannes","Jean","Giovanni","Juan","JackUK",
@@ -31,6 +31,7 @@ Children:
      "LoginChangePasswordFormUserNotFound","User not found","","","","No se encuentra el usuario","",
      "LoginChangePasswordFormPasswordAlreadyUsed","Password already used","","","","La contraseña ya se ha utilizado","",
      "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently","","","","La contraseña ya se cambió hace poco","",
-     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match","","","","Las contraseñas no coinciden",""
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match","","","","Las contraseñas no coinciden","",
+     "KLeeblätter","shamrocks","KLeeblätter","trèfle","trifogli","",""
     ]
    }

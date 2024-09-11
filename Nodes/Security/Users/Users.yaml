@@ -117,3 +117,19 @@ Children:
     DataType: LocaleId
     ReferenceType: HasProperty
     Value: "en-GB"
+- Name: Juan
+  Id: g=b3aa0c14256a2e90db77dd366c72af75
+  Type: UserType
+  Children:
+  - Name: MeasurementSystem
+    Id: g=8b3711c2ab74355be17dcacea78c68c2
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 1
+  - Name: Language
+    Id: g=0dc58420c7cdd0465f1ae61650c7c6d4
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "es-ES"
